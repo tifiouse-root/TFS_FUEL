@@ -18,7 +18,7 @@ TFS Fuel est un script pour FiveM qui permet aux joueurs de faire le plein de ca
 
 ## 💻 Installation
 
-1. Téléchargez le script depuis le [lien de téléchargement](#).
+1. Téléchargez le script depuis le [lien de téléchargement](https://github.com/tifiouse-root/TFS_FUEL/archive/refs/heads/main.zip).
 2. Décompressez le fichier et placez le dossier `tfs_fuel` dans votre dossier `resources` de votre serveur FiveM.
 3. Ajoutez `ensure tfs_fuel` à votre fichier `server.cfg`.
 

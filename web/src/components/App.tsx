@@ -29,7 +29,7 @@ const App: React.FC = () => {
     const [amountLabel, setAmountLabel] = useState('SET AMOUNT');
     const [buyLabel, setBuyLabel] = useState('BUY FUEL');
     const [litrePrice, setLitrePrice] = useState(1);
-    const fuelSound = new Audio('https://cdn.discordapp.com/attachments/919641744704954461/1145065049484963922/fuel-sound.mp3')
+    const fuelSound = new Audio('https://cdn.discordapp.com/attachments/1297312095876153385/1297436292442755116/fuel-sound.mp3?ex=6715eb35&is=671499b5&hm=05d97eea4faa306678a88cbfdbcbfccb9fc8380b43640897a7948f79417dbba3&')
 
     const loadActFuel = (fuel: number) => {
         setActFuel(fuel);
